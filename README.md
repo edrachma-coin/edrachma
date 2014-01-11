@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
@@ -49,3 +50,9 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+=======
+edrachma
+========
+
+eDrachma - a crypto-currency for the Greek community
+>>>>>>> df13082f117fe736c53fd605c1dcb3e38ede5f57
